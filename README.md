@@ -12,6 +12,10 @@ and the same QNN model trained with L-BFGS (Limited memory Broyden-Fletcher-Gold
 The L-BFGS method is sensitive to initial values of hyperparameters, however in many cases it offers much faster convergence or trainig speed
 
 
+![image](https://github.com/Peet62/QNN/assets/138752851/aa978e69-e7e0-4152-b13d-ca1cfe80a46c)
+
+
+
 # Installation
 
 After cloning the repository, the pytorch installation should be installed (https://pytorch.org/get-started/locally/)
