@@ -9,7 +9,7 @@ The repository contains also example of simple 2 layer QNN model, trained with A
 
 and the same QNN model trained with L-BFGS (Limited memory Broyden-Fletcher-Goldfarb-Shanno) optimization algorithm: example2.py
 
-The L-BFGS method is sensitive to initial values of hyperparameters, however in many cases it offers much faster convergence or trainig speed
+The L-BFGS method is sensitive to initial values of hyperparameters, however in many cases it offers much faster convergence or training speed
 
 
 ![image](https://github.com/Peet62/QNN/assets/138752851/aa978e69-e7e0-4152-b13d-ca1cfe80a46c)
