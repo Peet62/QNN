@@ -3,7 +3,7 @@ Quaternion neural network
 
 This repository contains code for implementation of quaternion neural network (QNN) in Pytorch framework
 
-The files contain slightly modified  original code from hTorch library (https://github.com/ispamm/hTorch)
+The files contain modified  code from hTorch library
 
 The repository contains also example of simple 2 layer QNN model, trained with Adam optimization algorithm: example1.py
 
